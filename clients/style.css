@@ -1,0 +1,117 @@
+.devices {
+	/*background-color: red;*/
+	height: 400px;
+	margin-right: -10px;
+	margin-left: -10px;
+	padding-left: 100px;	
+	/*text-align: center;*/
+	display: flex;
+	flex-wrap: wrap;
+   
+   justify-content: space-between;
+	padding-top: 80px;
+	width: 100%;
+
+}
+
+.device-1 {	
+	padding-right: 80px;
+	width: 20%;
+	flex-wrap: wrap;
+		
+}
+
+.notebook {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+
+.notebook-1 {
+	text-decoration: none;
+	color: white;
+	
+}
+
+.notebook-buttom {
+	width: 160px;
+	height: 30px; 
+	background-color: rgb(241, 87, 87);
+	text-align: center;
+	padding-top: 15px;
+	
+}
+
+.notebook-buttom:hover {
+	color: rgb(255, 252, 252);
+	background: rgb(182, 177, 177);
+	tansition: all .3s linear;
+	-webkit-transition: all .3s linear;
+	-moz-transition: all .3s linear; 
+}
+
+
+.device-2 {	
+	padding-right: 80px;	
+	width: 20%;
+	flex-wrap: wrap;
+}
+
+.mobile{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.mobile-buttom {
+	width: 160px;
+	height: 30px; 
+	background-color: rgb(90, 159, 89);
+	text-align: center;
+	padding-top: 15px;
+}
+
+.mobile-buttom:hover {
+	color: rgb(255, 252, 252);
+	background: rgb(182, 177, 177);
+	tansition: all .3s linear;
+	-webkit-transition: all .3s linear;
+	-moz-transition: all .3s linear; 
+}
+
+
+.mobile-2 {
+	color: white;
+	text-decoration: none;
+}
+
+.device-3 {
+	padding-right: 120px;
+	width: 20%;	
+	flex-wrap: wrap;
+}
+
+.presentacion {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.presentacion-buttom {
+	width: 160px;
+	height: 30px; 
+	background-color: rgb(235, 219, 74);
+	text-align: center;
+	padding-top: 15px;
+}
+
+.presentacion-buttom:hover {
+	color: rgb(255, 252, 252);
+	background: rgb(182, 177, 177);
+	tansition: all .3s linear;
+	-webkit-transition: all .3s linear;
+	-moz-transition: all .3s linear; 
+}
+
+.presentacion-3 {
+	color: white;
+	text-decoration: none;
+}
